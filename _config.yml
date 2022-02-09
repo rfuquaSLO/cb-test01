@@ -32,7 +32,7 @@ author: rfuquaslo
 organization-name: Northwest Digital Heritage, State Library of Oregon
 organization-link: https://northwestdigitalheritage.org/
 organization-logo-banner: https://www.northwestdigitalheritage.org/assets/img/NWDH_TwoTone_Web.png 
-# can include organization-logo-nav at some point
+organization-logo-nav: https://www.northwestdigitalheritage.org/assets/img/NWDH_TwoTone_Web.png 
 
 ##########
 # COLLECTION SETTINGS
