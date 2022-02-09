@@ -9,7 +9,7 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-#url: https://collectionbuilder.github.io 
+#url: https://rfuquaslo.github.io/cb-test01/
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
@@ -20,14 +20,19 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Northwest Digital Heritage Test Site
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: a test site to explore CollectionBuilder-GH
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "This is a test build of CollectionBuilder-GH from University of Idaho's Center for Digital Inquiry and Learning"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: rfuquaslo
+# optional organization branding section follows
+organization-name: Northwest Digital Heritage, State Library of Oregon
+organization-link: https://northwestdigitalheritage.org/
+organization-logo-banner: https://www.northwestdigitalheritage.org/assets/img/NWDH_TwoTone_Web.png 
+# can include organization-logo-nav at some point
 
 ##########
 # COLLECTION SETTINGS
