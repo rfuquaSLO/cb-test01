@@ -31,7 +31,7 @@ author: rfuquaslo
 # optional organization branding section follows
 organization-name: Northwest Digital Heritage, State Library of Oregon
 organization-link: https://northwestdigitalheritage.org/
-organization-logo-banner: https://www.northwestdigitalheritage.org/assets/img/NWDH_TwoTone_Web.png 
+organization-logo-banner: //_site/assets/img/NWDH_TwoTone_Web.png 
 organization-logo-nav: https://www.northwestdigitalheritage.org/assets/img/NWDH_TwoTone_Web.png 
 
 ##########
